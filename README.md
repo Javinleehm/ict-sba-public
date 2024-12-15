@@ -267,7 +267,7 @@ A brief text instructions of the keyboard shortcuts are shown above the function
 #### **Import Paper Window**
 Pressing "**Import a new paper...**" from home page takes the user to the following window.
 
-![alt text](image.png)
+![Import Paper](doc_assets/img/import_paper_win.png)
 
 Import Paper Window
 
